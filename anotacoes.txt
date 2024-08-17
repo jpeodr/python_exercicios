@@ -25,3 +25,5 @@ bool(dado_para_conversao): converte o dado para o tipo booleano.
 
 valor_produto = float(input("Valor do produto R$: "))
 
+importação de módulos
+import, from, as
