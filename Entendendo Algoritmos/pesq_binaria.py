@@ -16,3 +16,5 @@ minha_lista = [1, 3, 5, 7, 9]
 
 print(pesquisa_binaria(minha_lista, 3)) # => 1
 print(pesquisa_binaria(minha_lista, -1)) # => None
+
+#Essa função pega um array ordenado e um item. Se o item está no array, a função retorna a sua posição.
